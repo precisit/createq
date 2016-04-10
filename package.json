@@ -1,7 +1,7 @@
 {
-  "name": "angularjs-gulp-browserify-boilerplate",
+  "name": "createq",
   "version": "0.1.0",
-  "author": "Jake Marsh <jakemmarsh@gmail.com>",
+  "author": "Caroline Appelgren <caroline@precisit.com>",
   "description": "Boilerplate using AngularJS, SASS, Gulp, and Browserify while also utilizing best practices.",
   "repository": {
     "type": "git",
